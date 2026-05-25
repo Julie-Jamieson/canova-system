@@ -1,7 +1,7 @@
 <img width="5831" height="1695" alt="CANOVA WORD LOGO" src="https://github.com/user-attachments/assets/6af6a3f3-649b-4d97-8a31-a35d9676f296" />
 
 
-# canova-system
+# CANOVA.sys
 
 A stewardship-backed system exploring environmental restoration, regenerative value systems, and long-horizon community resilience.
 
