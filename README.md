@@ -61,4 +61,4 @@ Some materials are conceptual and exploratory in nature and may continue evolvin
 
 ## Website
 
-https://misfitgenius.ca
+https://canovasys.ca
