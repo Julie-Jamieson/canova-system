@@ -1,0 +1,7 @@
+5 CANOVA front and back 
+
+I have built in an extra .25" bleed on top and side (0.125 top, bottom, left and right) for each image
+
+I have not added trim lines - printer may ask me to do this when printing. Check with them first.
+
+Add the lines in photoshop if needed.
